@@ -1,2 +1,2 @@
-# secRepo
+# 2ndRepo
 2nd repo
